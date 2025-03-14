@@ -9,7 +9,7 @@
 3. Line聊天機器人線上訂餐
 4. 串接Open AI 線上互動
 
-##### 串接Line:
+##### 串接Line(id:@898gworc):
 <img width="393" alt="截圖 2025-03-14 晚上8 47 40" src="https://github.com/user-attachments/assets/7a22b685-0f02-4a29-a51d-8d5a1e5f8182" />
 
 ##### 串接Open AI:
